@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-	<title>Check penjurusan</title>
+	<title>Pengumpalan data</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="SolMusic HTML Template">
 	<meta name="keywords" content="music, html">
@@ -42,13 +42,13 @@
 								<h2><span>Pengumpulan</span> Data </h2>
 								<p> Merupakan Proses Pengumpulan data Ujian Nasional Mahasiswa <a href="#" class="text-primary">Univerisitas Bumigora </a> untuk perancangan aplikasi sistem rekomendasi pemilihan program study di <a href="#" class="text-primary">Univerisitas Bumigora </a> </p>
 								<p>PILIH SALAH SATU LINK DI BAWAH SESUAI JURUSAN DI SMA (IPA/IPS) atau SMK</p>
-								<a href="#" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLScUlqyGXu3yOFVhGYvTNOPALmUQjr2D1PVZyU_wWqyGmXG1zQ/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
 										<h3>IPA</h3>
 									</span></a>
-								<a href="#" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSfDg2Yqb1sW8LOHvdplFOVHXKFF-SbjyzvN0j9Bda1a1cinJA/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
 										<h3>IPS</h3>
 									</span></a>
-								<a href="#" class="site-btn" target="_blank">choose for SMK <span class="text-warning">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMK <span class="text-warning">
 										<h3>TKJ</h3>
 									</span></a>
 							</div>
