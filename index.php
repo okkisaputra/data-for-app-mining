@@ -49,7 +49,7 @@
 										<h3>IPS</h3>
 									</span></a>
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMK <span class="text-warning">
-										<h3>TKJ</h3>
+										<h3>TKJ/RPL</h3>
 									</span></a>
 							</div>
 						</div>
